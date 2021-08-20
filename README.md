@@ -1,6 +1,6 @@
 ### Hello Internet Adventurer! 🖖
 
-🙋🏻‍♂️ I'm **Troy**, currently part of the awesome Carbon Insights & Actions team at OVO Energy! I Specalize in **Javascript** and **React** but also dabble in **React Native** for our native app.
+🙋🏻‍♂️ I'm **Troy**, currently part of the awesome Carbon Insights team at OVO Energy! I Specalize in **Javascript** and **React** but also dabble in **React Native** for our native app.
 
 🎯 I'm currently focusing on advanced front-end E2E testing strategy and forever trying to up my knowledge on advanced **Javascript** / **React** methodologies and techniques
 

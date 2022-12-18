@@ -1,6 +1,6 @@
 ### Hello Internet Adventurer! 🖖
 
-🙋🏻‍♂️ I'm **Troy**, currently part of the awesome Insights team at InfoGrid! I Specalize in **Typescript** and **React**
+🙋🏻‍♂️ I'm **Troy**, currently part of the awesome Insights / Occupancy team at InfoGrid! I Specalize in **Typescript** and **React**
 
 🎯 I'm currently focusing gaining a better understanding of the full software system as a whole, thinking about system design and learning about the technologies involved.
 

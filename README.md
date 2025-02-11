@@ -1,8 +1,6 @@
 ### Hello Internet Adventurer! 🖖
 
-🙋🏻‍♂️ I'm **Troy**, currently part of the awesome Insights / Occupancy team at InfoGrid! I Specalize in **Typescript** and **React**
-
-🎯 I'm currently focusing gaining a better understanding of the full software system as a whole, thinking about system design and learning about the technologies involved.
+🙋🏻‍♂️ I'm **Troy**, currently part of the awesome Acquisiton onboarding team here at Nutmeg! I Specalize in **Typescript** and **React**
 
 <!--
 **TroyB95/troyb95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

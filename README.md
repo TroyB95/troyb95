@@ -1,6 +1,6 @@
 ### Hello Internet Adventurer! 🖖
 
-🙋🏻‍♂️ I'm **Troy**, currently part of the awesome Acquisiton onboarding team here at Nutmeg! I Specalize in **Typescript** and **React**
+🙋🏻‍♂️ I'm **Troy**, currently part of the awesome compose team here at Accurx! I Specalize in all things frontend including **Typescript** and **React**
 
 <!--
 **TroyB95/troyb95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

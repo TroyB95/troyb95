@@ -1,6 +1,6 @@
-### Hello Internet Adventurer! 🖖
+### Hello Internet Adventurer!
 
-🙋🏻‍♂️ I'm **Troy**, currently part of the awesome compose team here at Accurx! I Specalize in all things frontend including **Typescript** and **React**
+🙋🏻‍♂️ I'm **Troy**, currently part of the awesome conversations applications team here at Accurx! I Specalize in all things frontend including **Typescript** and **React**
 
 <!--
 **TroyB95/troyb95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
